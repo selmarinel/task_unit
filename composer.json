@@ -1,0 +1,22 @@
+{
+  "name": "selmarinel/saver",
+  "description": "TEST UNIT",
+  "license": "MIT",
+  "version": "2.1",
+  "authors": [
+    {
+      "name": "Selmarinel Nerdjin",
+      "email": "selmarinel@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php" : ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Saver\\Core\\": "core"
+    }
+  }
+
+}
