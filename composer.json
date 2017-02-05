@@ -3,6 +3,7 @@
   "description": "TEST UNIT",
   "license": "MIT",
   "version": "2.1",
+  "minimum-stability": "master",
   "authors": [
     {
       "name": "Selmarinel Nerdjin",
