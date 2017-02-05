@@ -18,6 +18,11 @@
     "psr-4": {
       "Saver\\Core\\": "core"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "dev-master"
+    }
   }
 
 }
