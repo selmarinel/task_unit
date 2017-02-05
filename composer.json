@@ -3,6 +3,7 @@
   "description": "TEST UNIT",
   "license": "MIT",
   "version": "2.1",
+  "minimum-stability": "master",
   "authors": [
     {
       "name": "Selmarinel Nerdjin",
@@ -16,6 +17,11 @@
   "autoload": {
     "psr-4": {
       "Saver\\Core\\": "core"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "dev-master"
     }
   }
 
